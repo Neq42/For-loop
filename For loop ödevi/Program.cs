@@ -179,7 +179,7 @@ namespace For_loop_ödevi
             #endregion
 
 
-
+            Console.WriteLine();
 
 
 
